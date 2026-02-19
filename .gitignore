@@ -1,0 +1,5 @@
+/.idea/
+/uploads/
+/venv/
+**.iml
+.env
